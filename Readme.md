@@ -1,4 +1,4 @@
-Andivionian Project Status Classifier
+Andivionian Project Status Classifier [![Status Aquana](https://img.shields.io/badge/status-aquana-yellowgreen.svg)](https://github.com/ForNeVeR/andivionian-status-classifier) 
 =====================================
 
 That's a nice collection of [Andivionian Scientific Alliance's standard project
