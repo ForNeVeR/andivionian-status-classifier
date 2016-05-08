@@ -7,7 +7,7 @@ states][source] adapted for software development.
 ### Status Zero [![Status Zero][status-zero]][andivionian-status-classifier]
 
     [![Status Zero][status-zero]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-zero-
     [status-zero]: https://img.shields.io/badge/status-zero-lightgrey.svg
 
 Development has not started or it has been failed.
@@ -15,7 +15,7 @@ Development has not started or it has been failed.
 ### Status Umbra [![Status Umbra][status-umbra]][andivionian-status-classifier]
 
     [![Status Umbra][status-umbra]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-umbra-
     [status-umbra]: https://img.shields.io/badge/status-umbra-red.svg
 
 Implementation has been started, but no usable features implemented so far.
@@ -23,7 +23,7 @@ Implementation has been started, but no usable features implemented so far.
 ### Status Enfer [![Status Enfer][status-enfer]][andivionian-status-classifier]
 
     [![Status Enfer][status-enfer]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier##status-enfer-
     [status-enfer]: https://img.shields.io/badge/status-enfer-orange.svg
 
 Some features have been implemented successfully.
@@ -31,7 +31,7 @@ Some features have been implemented successfully.
 ### Status Ventis [![Status Ventis][status-ventis]][andivionian-status-classifier]
 
     [![Status Ventis][status-ventis]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-ventis-
     [status-ventis]: https://img.shields.io/badge/status-ventis-yellow.svg
 
 Application can be used but it is not yet completed.
@@ -39,7 +39,7 @@ Application can be used but it is not yet completed.
 ### Status Aquana [![Status Aquana][status-aquana]][andivionian-status-classifier]
 
     [![Status Aquana][status-aquana]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-aquana-
     [status-aquana]: https://img.shields.io/badge/status-aquana-yellowgreen.svg
 
 Application is feature-complete.
@@ -47,7 +47,7 @@ Application is feature-complete.
 ### Status Terrid [![Status Terrid][status-terrid]][andivionian-status-classifier]
 
     [![Status Terrid][status-terrid]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-terrid-
     [status-terrid]: https://img.shields.io/badge/status-terrid-green.svg
 
 Application is feature-complete and can be used reliably.
@@ -55,7 +55,7 @@ Application is feature-complete and can be used reliably.
 ### Status Adamant [![Status Adamant][status-adamant]][andivionian-status-classifier]
 
     [![Status Adamant][status-adamant]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-adamant-
     [status-adamant]: https://img.shields.io/badge/status-adamant-blue.svg
 
 Application is feature-complete, reliable and optimized.
