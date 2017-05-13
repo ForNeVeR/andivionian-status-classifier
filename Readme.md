@@ -10,7 +10,7 @@ states][source] adapted for software development.
     [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-zero-
     [status-zero]: https://img.shields.io/badge/status-zero-lightgrey.svg
 
-Development has not started or it has been failed.
+Development has not started, it has been failed, or it has been shut down.
 
 ### Status Umbra [![Status Umbra][status-umbra]][andivionian-status-classifier]
 
