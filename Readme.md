@@ -23,7 +23,7 @@ Implementation has been started, but no usable features implemented so far.
 ### Status Enfer [![Status Enfer][status-enfer]][andivionian-status-classifier]
 
     [![Status Enfer][status-enfer]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier##status-enfer-
+    [andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-enfer-
     [status-enfer]: https://img.shields.io/badge/status-enfer-orange.svg
 
 Some features have been implemented successfully.
