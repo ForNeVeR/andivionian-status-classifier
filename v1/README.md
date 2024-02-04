@@ -2,7 +2,10 @@ This is version 1.0.0 of the classification. [Read more on versioning][docs.vers
 
 <style>
   :target {
-    background-color: #f0f0f0;
+    border: 4px solid lightblue;
+  }
+  pre.highlight {
+    overflow-x: hidden;
   }
 </style>
 
