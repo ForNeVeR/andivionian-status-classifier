@@ -63,7 +63,7 @@ Application is feature-complete and can be used reliably.
 
 Application is feature-complete, reliable, and optimized.
 
-[docs.versioning]: https://andivionian.fornever.me/v1/#versioning-notes
+[docs.versioning]: https://andivionian.fornever.me/#versioning-notes
 [status-adamant]: https://img.shields.io/badge/status-adamant-blue.svg
 [status-aquana]: https://img.shields.io/badge/status-aquana-yellowgreen.svg
 [status-enfer]: https://img.shields.io/badge/status-enfer-orange.svg
