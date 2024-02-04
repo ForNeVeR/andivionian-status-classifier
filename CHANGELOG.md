@@ -2,7 +2,7 @@
 =========
 This is a changelog of the project. It will contain the notes on any changes, even the ones that aren't related to the classification itself.
 
-[Unreleased]
+[1.0.0] - 2024-02-04
 ------------
 This is the first versioned release, considered stable and ready for further use.
 
@@ -15,4 +15,5 @@ A classification v1.0.0 has been released together with it, containing the follo
 - Status Terrid,
 - Status Adamant.
 
-[Unreleased]: https://github.com/ForNeVeR/andivionian-status-classifier
+[Unreleased]: https://github.com/ForNeVeR/andivionian-status-classifier/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/ForNeVeR/andivionian-status-classifier/releases/tag/v1.0.0
