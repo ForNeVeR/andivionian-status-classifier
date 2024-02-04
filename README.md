@@ -1,83 +1,46 @@
-Andivionian Project Status Classifier [![Status Aquana][status-aquana]][andivionian-status-classifier]
-=====================================
+Andivionian Project Status Classification [![Status Aquana][status-aquana]][andivionian-status-classifier]
+=========================================
+This is a classification of the software projects that allows to determine the project applicability, according to the classification-defined criteria. It is considered that the software authors themselves may assign an andivionian status to their project, and it will help the users to figure out at what development stage the project currently is.
 
-That's a nice collection of [Andivionian Scientific Alliance's standard project
-states][source] adapted for software development.
+The classification is forked from the work status classification used by the [Andivionian Scientific Alliance][alliance] earlier (see the **History** section below for details).
 
-### Status Zero [![Status Zero][status-zero]][andivionian-status-classifier]
+**To see the current status set, browse to the [version 1][v1] page.**
 
-    [![Status Zero][status-zero]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://andivionian.fornever.me/#status-zero-
-    [status-zero]: https://img.shields.io/badge/status-zero-lightgrey.svg
+History
+-------
+This set of statuses was "forked" from the [set of work statuses][alliance.old-statuses] used by the [Andivionian Scientific Alliance][alliance] back in 2015, with certain adaptations to use it for the software projects. For example, we use the usability and feature completeness criteria instead of the anomaly engineering ones.
 
-Development has not started, it has been failed, or it has been shut down.
+Later in 2016, the Alliance has [reworked the status system][alliance.new-statuses], and these terms are no longer used for the work statuses. They are currently applied to [the world classification][alliance.world-classes]. We still believe in their applicability for the software projects in their original meaning, so there are no current plans to adapt any changes from the Alliance.
 
-### Status Umbra [![Status Umbra][status-umbra]][andivionian-status-classifier]
+Versioning Notes
+----------------
+This is a section on versioning the classification itself. The current latest major version is [v1][].
 
-    [![Status Umbra][status-umbra]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://andivionian.fornever.me/#status-umbra-
-    [status-umbra]: https://img.shields.io/badge/status-umbra-red.svg
+If anything changes in the definition of the statuses, then the version is increased according to [Semantic Versioning 2.0.0][semver]. We consider the status definitions to be the public API of the project, so the minor version will increase in case of backwards-compatible changes, and the major version will update in case of backwards-incompatible changes.
 
-Implementation has been started, but no usable features implemented so far.
+If a new major version is released, it will be made available on a separate URL (`/v2/` instead of `/v1`), alongside the old version.
 
-### Status Enfer [![Status Enfer][status-enfer]][andivionian-status-classifier]
-
-    [![Status Enfer][status-enfer]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://andivionian.fornever.me/#status-enfer-
-    [status-enfer]: https://img.shields.io/badge/status-enfer-orange.svg
-
-Some features have been implemented successfully.
-
-### Status Ventis [![Status Ventis][status-ventis]][andivionian-status-classifier]
-
-    [![Status Ventis][status-ventis]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://andivionian.fornever.me/#status-ventis-
-    [status-ventis]: https://img.shields.io/badge/status-ventis-yellow.svg
-
-Application can be used but it is not yet completed.
-
-### Status Aquana [![Status Aquana][status-aquana]][andivionian-status-classifier]
-
-    [![Status Aquana][status-aquana]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://andivionian.fornever.me/#status-aquana-
-    [status-aquana]: https://img.shields.io/badge/status-aquana-yellowgreen.svg
-
-Application is feature-complete.
-
-### Status Terrid [![Status Terrid][status-terrid]][andivionian-status-classifier]
-
-    [![Status Terrid][status-terrid]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://andivionian.fornever.me/#status-terrid-
-    [status-terrid]: https://img.shields.io/badge/status-terrid-green.svg
-
-Application is feature-complete and can be used reliably.
-
-### Status Adamant [![Status Adamant][status-adamant]][andivionian-status-classifier]
-
-    [![Status Adamant][status-adamant]][andivionian-status-classifier]
-    [andivionian-status-classifier]: https://andivionian.fornever.me/#status-adamant-
-    [status-adamant]: https://img.shields.io/badge/status-adamant-blue.svg
-
-Application is feature-complete, reliable and optimized.
+### Hyperlink Stability
+We are trying to keep the hyperlinks anywhere inside https://andivionian.fornever.me/ to be stable when possible, including the link anchors. But this is not subject to the versioning policy. If any of the links change, this won't automatically cause a major version increment.
 
 License
 -------
-
-This page materials may be redistributed under the terms of [Creative Commons
-Attribution-ShareAlike 3.0 License][cc-by-license], the same as the original
-materials.
+The materials from this project may be redistributed under the terms of [Creative Commons Attribution-ShareAlike 3.0 License][cc-by-license], the same as the original materials from the [Andivionian Scientific Alliance][alliance].
 
 [![cc-by][]][cc-by-license]
 
-[andivionian-status-classifier]: https://andivionian.fornever.me/
-[cc-by-license]: http://creativecommons.org/licenses/by-sa/3.0/
-[source]: http://scientific-alliance.wikidot.com/item-classes
+Documentation
+-------------
+- [Changelog][docs.changelog]
 
+[alliance.new-statuses]: http://scientific-alliance.wikidot.com/item-classes
+[alliance.old-statuses]: https://web.archive.org/web/20150728015250/http://scientific-alliance.wikidot.com/item-classes
+[alliance.world-classes]: http://scientific-alliance.wikidot.com/world-classes
+[alliance]: http://scientific-alliance.wikidot.com/
+[andivionian-status-classifier]: https://andivionian.fornever.me/v1/#status-aquana-
+[cc-by-license]: http://creativecommons.org/licenses/by-sa/3.0/
 [cc-by]: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg
-[status-adamant]: https://img.shields.io/badge/status-adamant-blue.svg
+[docs.changelog]: CHANGELOG.md
+[semver]: https://semver.org/
 [status-aquana]: https://img.shields.io/badge/status-aquana-yellowgreen.svg
-[status-enfer]: https://img.shields.io/badge/status-enfer-orange.svg
-[status-terrid]: https://img.shields.io/badge/status-terrid-green.svg
-[status-umbra]: https://img.shields.io/badge/status-umbra-red.svg
-[status-ventis]: https://img.shields.io/badge/status-ventis-yellow.svg
-[status-zero]: https://img.shields.io/badge/status-zero-lightgrey.svg
+[v1]: https://andivionian.fornever.me/v1/
