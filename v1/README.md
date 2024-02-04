@@ -1,5 +1,3 @@
-Andivionian Project Status Classification v1
-============================================
 This is version 1.0.0 of the classification. [Read more on versioning][docs.versioning].
 
 ### Status Zero ![Status Zero][status-zero]
