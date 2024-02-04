@@ -1,5 +1,11 @@
 This is version 1.0.0 of the classification. [Read more on versioning][docs.versioning].
 
+<style>
+  :target {
+    background-color: #f0f0f0;
+  }
+</style>
+
 ### Status Zero ![Status Zero][status-zero]
 ```markdown
 [![Status Zero][status-zero]][andivionian-status-classifier]
