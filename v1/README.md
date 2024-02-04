@@ -1,5 +1,7 @@
-Andivionian Project Status Classifier [![Status Aquana][status-aquana]][andivionian-status-classifier]
-=====================================
+Andivionian Project Status Classification v1 [![Status Aquana][status-aquana]][andivionian-status-classifier]
+============================================
+
+This is a version 1 of the classification. [Read more on versioning][docs.versioning].
 
 That's a nice collection of [Andivionian Scientific Alliance's standard project
 states][source] adapted for software development.
@@ -72,7 +74,6 @@ materials.
 [andivionian-status-classifier]: https://andivionian.fornever.me/
 [cc-by-license]: http://creativecommons.org/licenses/by-sa/3.0/
 [source]: http://scientific-alliance.wikidot.com/item-classes
-
 [cc-by]: http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-sa.svg
 [status-adamant]: https://img.shields.io/badge/status-adamant-blue.svg
 [status-aquana]: https://img.shields.io/badge/status-aquana-yellowgreen.svg
@@ -81,3 +82,5 @@ materials.
 [status-umbra]: https://img.shields.io/badge/status-umbra-red.svg
 [status-ventis]: https://img.shields.io/badge/status-ventis-yellow.svg
 [status-zero]: https://img.shields.io/badge/status-zero-lightgrey.svg
+[docs.versioning]: https://andivionian.fornever.me/#versioning-notes
+```
