@@ -1,12 +1,16 @@
 This is version 1.0.0 of the classification. [Read more on versioning][docs.versioning].
 
 <style>
-  :target {
-    border: 4px solid lightblue;
-  }
-  pre.highlight {
-    overflow-x: hidden;
-  }
+    :target {
+        border: 4px solid lightblue;
+    }
+    pre.highlight {
+        overflow-x: hidden;
+    }
+    img {
+        vertical-align: middle;
+    }
+
 </style>
 
 ### Status Zero ![Status Zero][status-zero]
